@@ -1,0 +1,1 @@
+ID: 1, Date: Thu Oct 12 19:24:49 GMT+03:00 2023, Text: Text note from CLI
